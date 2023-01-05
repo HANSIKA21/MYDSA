@@ -1,3 +1,7 @@
 class Binarytree{
-	class Node{}
+	class Node{
+		int value;
+		Node leftchild;
+		Node rightchild;
+	}
 }
